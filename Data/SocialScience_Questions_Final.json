@@ -4,7 +4,7 @@
         "Context": "\"In 1857, British rule witnessed the biggest challenge to its existence. Initially, it began as a mutiny of Bengal presidency sepoys but later expanded to the other parts of India involving a large number of civilians, especially peasants. The events of 1857–58 are significant for the following reasons: 1. This was the first major revolt of armed forces accompanied by civilian rebellion. 2. The revolt witnessed unprecedented violence, perpetrated by both sides. 3. The revolt ended the role of the East India Company and the governance of the Indian subcontinent was taken over by the British Crown. \n(a) Causes \n1. Annexation Policy of British India\nIn the 1840s and 1850s, more territories were annexed through two major policies: The Doctrine of Paramountcy. British claimed themselves as paramount, exercising supreme authority. New territories were annexed on the grounds that the native rulers were inept.  and the Doctrine of Lapse. If a native ruler did not have male heir to the throne, the territory was to ‘lapse’ into British India upon the death of the ruler. Satara, Sambalpur, parts of the Punjab, Jhansi and Nagpur were annexed by the British through the Doctrine of Lapse.\n2. Insensitivity to Indian Cultural Sentiments\nIn 1806 the sepoys at Vellore mutinied against the new dress code, which prohibited Indians from wearing religious marks on their foreheads and having whiskers on their chin, while proposing to replace their turbans with a round hat. It was feared that the dress code was part of their effort to convert soldiers to Christianity. Similarly, in 1824, the sepoys at Barrackpur near Calcutta refused to go to Burma by sea, since crossing the sea meant the loss of their caste. The sepoys were also upset with discrimination in salary and promotion. Indian sepoys were paid much less than their European counterparts. They felt humiliated and racially abused by their seniors.\n(b) The Revolt of 1857\nThe precursor to the revolt was the circulation of rumors about the cartridges of the new Enfield rifle. There was strong suspicion that the new cartridges had been greased with cow and pig fat. The cartridge had to be bitten off before loading (pork is forbidden to the Muslims and the cow is sacred to a large section of Hindus). On 29 March a sepoy named Mangal Pandey assaulted his European officer. His fellow soldiers refused to arrest him when ordered to do so. Mangal Pandey along with others were court-martialled and hanged. This only fuelled the anger and in the following days there were increasing incidents of disobedience. Burning and arson were reported from the army cantonments in Ambala, Lucknow, and Meerut. \"\n",
         "Questions": [
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or social media campaign to promote communal harmony.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -27,7 +27,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the British were justified in annexing territories through the Doctrine of Paramountcy and the Doctrine of Lapse? Why?Why not?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -211,7 +211,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did the sepoys at Barrackpur refuse to go to Burma in 1824?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -395,7 +395,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "If you were a sepoy in 1857, would you have joined the revolt? Why or why not?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -552,7 +552,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the two major policies used by the British to annex territories?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -644,7 +644,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Compare and contrast the two major policies used by the British to annex territories.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -788,7 +788,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Give a presentation about the 1857 revolt to your classmates.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -834,7 +834,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the 1857 revolt was a success or a failure? Why?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -995,7 +995,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What were the two major privileges that the Zamindars and Taluqdars lost under the British government?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1041,7 +1041,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the talukdar–peasant collective help the rebellion?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1244,7 +1244,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the events of the 1857 revolt be used to explain the current political situation in India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1267,7 +1267,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How are the events of the 1857 revolt connected to the history of India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1458,7 +1458,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the British were justified in suppressing the rebellion? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1481,7 +1481,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did the Indian princes and zamindars either remain loyal or were fearful of British power?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1550,7 +1550,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the causes and consequences of the 1857 rebellion.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1573,7 +1573,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What was the name of the act passed by the British Parliament in 1858 that made India a crown colony?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1826,7 +1826,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are some ways in which the British changed their policies after the 1857 rebellion?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -1914,7 +1914,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the British use divide and rule tactics to suppress the rebellion?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2150,7 +2150,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the events of the Indigo Revolt be connected to the Deccan Riots?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2242,7 +2242,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Indigo Revolt was justified? Why? Why not?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2288,7 +2288,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What was the name of the play that drew attention to the plight of the indigo growers in India and Europe?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2311,7 +2311,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why were the peasants forced to grow indigo?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2357,7 +2357,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a peasant who participated in the Indigo Revolt.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2495,7 +2495,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the British government respond to the Indigo Revolt?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2800,7 +2800,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the flourishing of print media help in circulating the ideas of nationalism?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2823,7 +2823,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Indian National Congress was successful in achieving its goals? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2869,7 +2869,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the rise of nationalism in India.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -2915,7 +2915,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the ideas of nationalism be used to solve the problems of discrimination and inequality in India today?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3168,7 +3168,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the economic critique of colonialism contribute to the rise of nationalism in India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3398,7 +3398,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Who was the first president of the Indian National Congress?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3700,7 +3700,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What can be done to make sure that the Indian government does not divide the people of India on religious lines?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3746,7 +3746,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the partition of Bengal was a necessary evil? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3792,7 +3792,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the partition of Bengal contribute to the rise of communalism in India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -3838,7 +3838,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a Bengali person who was affected by the partition.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4091,7 +4091,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did the British government decide to partition Bengal?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4114,7 +4114,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What was the name of the British Viceroy who partitioned Bengal?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4327,7 +4327,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What can be done today to promote the use of swadeshi goods?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4419,7 +4419,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Who were the three prominent leaders of the Swadeshi movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4534,7 +4534,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the lasting legacies of the Swadeshi movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4626,7 +4626,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Swadeshi movement help to promote Indian industries?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4672,7 +4672,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the Swadeshi movement and its goals.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4695,7 +4695,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Swadeshi movement differ from the moderate approach to Indian independence?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4885,7 +4885,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the Home Rule Movement and its goals.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -4931,7 +4931,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Home Rule Movement differ from the Swadeshi movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5023,7 +5023,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What can be done to make sure that the Indian government is more responsive to the needs of the people?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5069,7 +5069,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Home Rule Movement was successful in achieving its goals? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5299,7 +5299,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What were the objectives of the Home Rule Movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5322,7 +5322,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What was the significance of the Lucknow Pact?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5644,7 +5644,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What is the meaning of satyagraha?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5736,7 +5736,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can satyagraha be used to solve the problems of discrimination and inequality in India today?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5966,7 +5966,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did Gandhi's experiences in South Africa influence his approach to the Indian independence movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -5989,7 +5989,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains Gandhi's methods of nonviolent resistance and their effectiveness.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6012,7 +6012,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think Gandhi's methods were effective in achieving Indian independence? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6150,7 +6150,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did Gandhi develop satyagraha?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6271,7 +6271,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What is the name of the exploitative system that was practiced in Champaran?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6294,7 +6294,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the methods used in the Champaran Satyagraha be used to solve the problems of farmers in India today?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6386,7 +6386,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a farmer who was involved in the Champaran Satyagraha.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6455,7 +6455,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did Rajkumar Shukla approach Gandhi for help?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6616,7 +6616,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Champaran Satyagraha was a success? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -6731,7 +6731,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Champaran Satyagraha differ from the earlier movements for Indian independence?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7032,7 +7032,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Who were the two prominent local leaders who were arrested in Amritsar on 9 April 1919?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7078,7 +7078,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Jallianwala Bagh Massacre was justified? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7216,7 +7216,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What is the significance of the Khilafat Movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7262,7 +7262,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Khilafat Movement contribute to the growth of the Indian independence movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7538,7 +7538,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the methods of the Rowlatt Satyagraha be used to solve the problems of discrimination and inequality in India today?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7584,7 +7584,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the significance of the Rowlatt Satyagraha or the Jallianwala Bagh Massacre.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7633,7 +7633,7 @@
     },
     {
         "Index": 12,
-        "Context": "\"Non-Cooperation Movement\nThe Indian National Congress approved the non-cooperation movement in a special session held in Calcutta on September 1920. It was subsequently passed in the Nagpur Session held on December 1920, Chaired by Salem C.Vijayaraghavachariar. The programme of non-cooperation included:\n1. Surrender of all titles of honours and honorary offices.\n2. Non-participation in government functions.\n3. Suspension of practice by lawyers, and settlement of court disputes by private arbitration.\n4. Boycott of government schools by children and parents.\n5. Boycott of the legislature created under the 1919 Act.\n6. Non-participation in government parties and other official functions.\n7. Refusal to accept any civil or military post.\n8. Boycott of foreign goods and spreading the doctrine of Swadeshi.\nNo-Tax Campaign and Chauri Chaura Incident\nGandhi announced a no-tax campaign in Bardoli in February 1922. These movements greatly enhanced Gandhi’s reputation as a national leader, especially the peasants. Gandhi made a nation-wide tour. Wherever he visited there was a bonfire of foreign cloth. Thousands left government jobs, students gave up their studies in large numbers and the lawyers gave up thriving practices. Boycott of British goods and institutions were effective. The boycott of the Prince of Wales’ visit to India was successful. On 5 February 1922 a procession of the nationalists in Chauri Chaura, a village near Gorakhpur in present-day Uttar Pradesh provoked by the police turned violent. The police finding themselves outnumbered shut themselves inside the police station. The mob burnt the police station 22 policemen lost their lives. Gandhi immediately withdrew the movement.\"",
+        "Context": "\"Non-Cooperation Movement\nThe Indian National Congress approved the non-cooperation movement in a special session held in Calcutta on September 1920. It was subsequently passed in the Nagpur Session held on December 1920, Chaired by Salem C.Vijayaraghavachariar. The programme of non-cooperation included:\n1. Surrender of all titles of honours and honorary offices.\n2. Non-participation in government functions.\n3. Suspension of practice by lawyers, and settlement of court disputes by private arbitration.\n4. Boycott of government schools by children and parents.\n5. Boycott of the legislature created under the 1919 Act.\n6. Non-participation in government parties and other official functions.\n7. Refusal to accept any civil or military post.\n8. Boycott of foreign goods and spreading the doctrine of Swadeshi.\nNo-Tax Campaign and Chauri Chaura Incident\nGandhi announced a no-tax campaign in Palm2oli in February 1922. These movements greatly enhanced Gandhi’s reputation as a national leader, especially the peasants. Gandhi made a nation-wide tour. Wherever he visited there was a bonfire of foreign cloth. Thousands left government jobs, students gave up their studies in large numbers and the lawyers gave up thriving practices. Boycott of British goods and institutions were effective. The boycott of the Prince of Wales’ visit to India was successful. On 5 February 1922 a procession of the nationalists in Chauri Chaura, a village near Gorakhpur in present-day Uttar Pradesh provoked by the police turned violent. The police finding themselves outnumbered shut themselves inside the police station. The mob burnt the police station 22 policemen lost their lives. Gandhi immediately withdrew the movement.\"",
         "Questions": [
             {
             "Model": "GPT35",
@@ -7682,7 +7682,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a person who was involved in the non-cooperation movement.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7705,7 +7705,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Chauri Chaura incident lead to the withdrawal of the non-cooperation movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -7981,7 +7981,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the lasting legacies of the non-cooperation movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8027,7 +8027,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the eight steps of the non-cooperation movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8119,7 +8119,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Chauri Chaura incident change the course of the Indian independence movement?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8257,7 +8257,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can we continue to fight for justice and equality in our own societies?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8516,7 +8516,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the abolition of untouchability is still a relevant issue in India today? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8562,7 +8562,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the two types of subjects under the Dyarchy system?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8746,7 +8746,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the promotion of Khadi help to create jobs and boost the Indian economy?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8861,7 +8861,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Dyarchy system affect the power of the Indian government?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8907,7 +8907,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did Gandhi focus on promoting Khadi, Hindu-Muslim unity and the abolition of untouchability after the Chauri Chaura incident?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -8953,7 +8953,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a person who was involved in the Swaraj Party.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9120,7 +9120,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Nehru Report was a good compromise between the different political parties in India? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9166,7 +9166,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Who were the two main political parties that boycotted the Simon Commission?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9373,7 +9373,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the boycott of the Simon Commission contribute to the growing divide between the Hindus and the Muslims in India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9396,7 +9396,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did Jinnah propose an amendment to the reservation of seats in the Central Legislature?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9626,7 +9626,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the events of the Simon Commission and the Nehru Report be used to teach students about the importance of compromise and consensus-building in a democracy?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9672,7 +9672,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a person who was involved in the boycott of the Simon Commission.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9839,7 +9839,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Civil Disobedience Movement contribute to the eventual independence of India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9862,7 +9862,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why was the inclusion of abolition of salt tax a brilliant tactical decision?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -9908,7 +9908,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What is the name of the place where Gandhi broke the salt law?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10115,7 +10115,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Design a poster or infographic that explains the importance of the Civil Disobedience Movement.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10184,7 +10184,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the events of the Civil Disobedience Movement can be repeated today? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10207,7 +10207,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the Civil Disobedience Movement be used to teach students about the importance of non-violence?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10466,7 +10466,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Quit India Movement differ from the other independence movements in India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10558,7 +10558,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the three demands of the Cripps Mission?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10581,7 +10581,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the INA trials were fair? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10853,7 +10853,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the events of the Quit India Movement be used to teach students about the importance of unity and cooperation?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -10899,7 +10899,7 @@
             "CEFR_level": 0
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a person who was involved in the Quit India Movement.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11037,7 +11037,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did the Congress and the Muslim League reject the Cripps Mission?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11269,7 +11269,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Write a short story about a person who was affected by the partition of India.",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11361,7 +11361,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How did the Mountbatten Plan contribute to the eventual partition of India?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11384,7 +11384,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Why did the Congress and the All India League approve the Mountbatten Plan?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11587,7 +11587,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "What are the four proposals of the Mountbatten Plan?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11633,7 +11633,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "How can the events leading to the partition of India be used to teach students about the importance of peace?",
             "Understandable_1": 1,
             "Understandable_2": 1,
@@ -11767,7 +11767,7 @@
             "CEFR_level": 1
             },
             {
-            "Model": "Bard",
+            "Model": "Palm2",
             "Question": "Do you think the Mountbatten Plan was a good solution to the problem of the partition of India? Explain.",
             "Understandable_1": 1,
             "Understandable_2": 1,

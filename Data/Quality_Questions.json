@@ -1,0 +1,2337 @@
+[
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or social media campaign to promote communal harmony."
+ },
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "Do you think the British were justified in annexing territories through the Doctrine of Paramountcy and the Doctrine of Lapse? Why?Why not?"
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "What was the reason for the annexation of Satara, Sambalpur, parts of the Punjab, Jhansi and Nagpur by British India?"
+ },
+ {
+  "Context": 1,
+  "Model": "GPT35",
+  "Questions ": "Who was the sepoy who assaulted his European officer and triggered a series of incidents leading to the Revolt of 1857?"
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "What was the impact of the Doctrine of Paramountcy and Doctrine of Lapse on the governance of British India? "
+ },
+ {
+  "Context": 1,
+  "Model": "GPT4",
+  "Questions ": "Do you think the British response to Mangal Pandey's actions was fair? Why or why not?"
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "If there were social media platforms during the time of 1857 revolt, what hashtags would you have used to spread awareness about the causes and events of the revolt? "
+ },
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "Why did the sepoys at Barrackpur refuse to go to Burma in 1824?"
+ },
+ {
+  "Context": 1,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a journalist during the time of the revolt. Write a short newspaper headline that captures the essence of the events following Mangal Pandey's actions."
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "Critically analyze the role of Mangal Pandey in the 1857 revolt.\nDo you agree with the actions taken by the Indian sepoys during the revolt of 1857?"
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "How did the British's insensitivity to Indian cultural sentiments lead to the mutiny of Sepoys at Barrackpur? "
+ },
+ {
+  "Context": 1,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a part of the rebellion, write a letter to a friend describing the events that led to the revolt and how it affected you."
+ },
+ {
+  "Context": 1,
+  "Model": "GPT4",
+  "Questions ": "If you were a sepoy during that time and heard the rumors about the cartridges, how would you react?"
+ },
+ {
+  "Context": 1,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a historian tasked with writing an article for a newspaper during the 19th century. Create a news article that covers the incidents of disobedience, burning, and arson in army cantonments in Ambala, Lucknow, and Meerut, providing a balanced perspective of the events."
+ },
+ {
+  "Context": 1,
+  "Model": "GPT4",
+  "Questions ": "How did the British policies, such as the Doctrine of Lapse and the new dress code, contribute to the increasing tensions with Indian soldiers and civilians?"
+ },
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "If you were a sepoy in 1857, would you have joined the revolt? Why or why not?"
+ },
+ {
+  "Context": 1,
+  "Model": "GPT35",
+  "Questions ": "How did the Doctrine of Lapse contribute to the British acquisition of territories in India during the 19th century?"
+ },
+ {
+  "Context": 1,
+  "Model": "GPT4",
+  "Questions ": "What was the Doctrine of Lapse, and how did it affect Indian territories?"
+ },
+ {
+  "Context": 1,
+  "Model": "Llama2_70B",
+  "Questions ": "What were the two policies implemented by the British in the 1840s and 1850s to annex more territories in India?"
+ },
+ {
+  "Context": 1,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the impact of the revolt on the governance of the Indian subcontinent?"
+ },
+ {
+  "Context": 1,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the reason behind the sepoys' refusal to use the new Enfield rifle cartridges?"
+ },
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "What are the two major policies used by the British to annex territories?"
+ },
+ {
+  "Context": 1,
+  "Model": "Falcon40B",
+  "Questions ": "In your opinion, how would you have handled the situation if you had been in the shoes of a sepoy who was ordered to bite off pork-greased cartridges? "
+ },
+ {
+  "Context": 1,
+  "Model": "GPT35",
+  "Questions ": "Assess the effectiveness of the British response to the mutiny in Vellore in 1806. How did their handling of the situation impact subsequent relations between the British authorities and the Indian sepoys?"
+ },
+ {
+  "Context": 1,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the significance of the events of 1857-58 in Indian history?"
+ },
+ {
+  "Context": 1,
+  "Model": "Palm2",
+  "Questions ": "Compare and contrast the two major policies used by the British to annex territories."
+ },
+ {
+  "Context": 1,
+  "Model": "GPT35",
+  "Questions ": "Analyze the significance of the Revolt of 1857 as the first major revolt of both armed forces and civilians against British rule. How did this event change the dynamics of the struggle for Indian independence?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT35",
+  "Questions ": "Name at least two leaders who assumed leadership roles against the British during the 1857 revolt."
+ },
+ {
+  "Context": 2,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a storyteller living during the time of the revolt. Create a short story describing the bravery and unity of the Indian leaders against the British."
+ },
+ {
+  "Context": 2,
+  "Model": "GPT35",
+  "Questions ": "Compare and contrast the leadership roles of Nana Sahib, Begum Hazrat Mahal, and Rani Lakshmi Bai during the 1857 revolt. How did their motivations and circumstances differ, and what impact did they have on the rebellion?"
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "What was the outcome of the revolt of 1857 in India?"
+ },
+ {
+  "Context": 2,
+  "Model": "Palm2",
+  "Questions ": "Do you think the 1857 revolt was a success or a failure? Why?"
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "Discuss the impact of the revolt of 1857 on the social and political situation in India."
+ },
+ {
+  "Context": 2,
+  "Model": "GPT4",
+  "Questions ": "If you were a local craftsman during the 1857 rebellion, how would the influx of British goods impact your livelihood?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT4",
+  "Questions ": "How did the British actions, such as the Doctrine of Lapse and denial of pensions, connect with the motivations of leaders like Rani Lakshmi Bai and Nana Sahib in joining the revolt?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT4",
+  "Questions ": "Why did many Zamindars and Taluqdars join the rebellion against the British?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT35",
+  "Questions ": "If you were a zamindar or taluqdar affected by the British government's policies, how would you encourage others in your position to join the civil rebellion and regain your lost privileges?"
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the effectiveness of the methods used by the British government to put down the revolt of 1857 in India."
+ },
+ {
+  "Context": 2,
+  "Model": "Palm2",
+  "Questions ": "What were the two major privileges that the Zamindars and Taluqdars lost under the British government? "
+ },
+ {
+  "Context": 2,
+  "Model": "Palm2",
+  "Questions ": "How did the talukdar–peasant collective help the rebellion? "
+ },
+ {
+  "Context": 2,
+  "Model": "GPT35",
+  "Questions ": "Evaluate the significance of Bahadur Shah II's acceptance of the title Shahenshah-e-Hindustan during the 1857 revolt. How did his proclamation impact the unity and direction of the rebellion?"
+ },
+ {
+  "Context": 2,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the reason behind the aggrievement of Nana Sahib? How did the mutiny provide a platform for aggrieved kings, nawabs, queens, and zamindars?"
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "Analyze the events that led to the revolt of 1857 in India."
+ },
+ {
+  "Context": 2,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the effect of the mutiny on British rule in North India?"
+ },
+ {
+  "Context": 2,
+  "Model": "Llama2_70B",
+  "Questions ": "Was it ethical of the British to annexe Jhansi under the Doctrine of Lapse?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT4",
+  "Questions ": "Do you think the combined force of kings, nawabs, queens, and zamindars would have had a stronger impact if they had united from the start of the revolt? Why?"
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "Explain the reasons behind the revolt of 1857 in India."
+ },
+ {
+  "Context": 2,
+  "Model": "Palm2",
+  "Questions ": "How can the events of the 1857 revolt be used to explain the current political situation in India?"
+ },
+ {
+  "Context": 2,
+  "Model": "Palm2",
+  "Questions ": "How are the events of the 1857 revolt connected to the history of India?"
+ },
+ {
+  "Context": 2,
+  "Model": "Llama2_70B",
+  "Questions ": "If you were a talukdar or a Zamindar, how would you have been affected by the British government?"
+ },
+ {
+  "Context": 2,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a weaver whose livelihood has been affected by the dumping of British manufactures. Write a letter to the editor of a local newspaper expressing your concerns."
+ },
+ {
+  "Context": 2,
+  "Model": "Falcon40B",
+  "Questions ": "If you were the governor-general of India in the middle of the 19th century, how would you have handled the situation in India leading up to the revolt of 1857?"
+ },
+ {
+  "Context": 2,
+  "Model": "GPT35",
+  "Questions ": "How did the anger of various social groups, such as zamindars, taluqdars, artisans, and handicraft persons, find expression during the 1857 revolt?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "What happened to Bahadur Shah after Delhi was captured by the British?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT35",
+  "Questions ": "Why is it said that the rebellion of 1857 was spontaneous rather than organized and planned?"
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "Do you think the British were justified in suppressing the rebellion? Explain."
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "Why did the Indian princes and zamindars either remain loyal or were fearful of British power? "
+ },
+ {
+  "Context": 3,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the reason for the failure of the rebellion, according to the text?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "Considering the events and results of the 1857 rebellion, was it justified for the British to shift their recruiting focus away from groups like Rajputs, Brahmins, and North Indian Muslims? Why or why not?"
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the causes and consequences of the 1857 rebellion. "
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "What was the name of the act passed by the British Parliament in 1858 that made India a crown colony? "
+ },
+ {
+  "Context": 3,
+  "Model": "GPT35",
+  "Questions ": "Write a diary entry as a rebel soldier during the siege of Delhi, expressing your thoughts and emotions about the events unfolding."
+ },
+ {
+  "Context": 3,
+  "Model": "Llama2_70B",
+  "Questions ": "What policy did the British adopt to govern India after 1857? How did it impact the administration?"
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "What were the causes of the discontentment of the Indian people before the Rebellion of 1857?"
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "What were the new laws and reforms introduced by the British after the Rebellion of 1857?"
+ },
+ {
+  "Context": 3,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the suppression of rebellion a justified act? Support your answer with reasons. "
+ },
+ {
+  "Context": 3,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a rebel leader during the rebellion of 1857. How would you attempt to overcome the challenges of lack of weapons and organization?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "If you were a young Indian during this period, how would you react to Queen Victoria's proclamation that the British would not interfere in traditional institutions and religious matters?"
+ },
+ {
+  "Context": 3,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the year when the rebellion against the British took place?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "How did the lack of a central authority and common agenda contribute to the failure of the 1857 rebellion?"
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "Describe the changes made to the Indian army after the 1857 rebellion."
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "What are some ways in which the British changed their policies after the 1857 rebellion? "
+ },
+ {
+  "Context": 3,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are an Indian leader during this period. Draft a letter urging the local rulers to unite against British rule, highlighting the importance of a common agenda and better organization."
+ },
+ {
+  "Context": 3,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the impact of the rebellion on the Indian society? How did the British exploit the differences in the Indian society?"
+ },
+ {
+  "Context": 3,
+  "Model": "Palm2",
+  "Questions ": "How did the British use divide and rule tactics to suppress the rebellion? "
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "Compare the outcomes of the Rebellion of 1857 with similar movements in other parts of the world and assess how it affected the political and social landscape of India."
+ },
+ {
+  "Context": 3,
+  "Model": "GPT35",
+  "Questions ": "Assess the impact of the \"Divide and Rule\" policy employed by the British on Indian society after the rebellion of 1857."
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "Compare and contrast the Rebellion of 1857 with the Indian National Movement and analyze how they are similar and different."
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "How has the Rebellion of 1857 impacted modern India's political, social, and economic landscape?"
+ },
+ {
+  "Context": 3,
+  "Model": "Falcon40B",
+  "Questions ": "Create a poster or a presentation that highlights the importance of the Rebellion of 1857 in India's history, focusing on the different aspects of its impact on the Indian people."
+ },
+ {
+  "Context": 3,
+  "Model": "GPT35",
+  "Questions ": "Analyze the factors that led to the failure of the rebellion of 1857, including the absence of a central authority and the lack of common agenda among rebels."
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "What was the primary natural dye highly valued by cloth makers before synthetic dyes were created?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "When did the Indigo Revolt start?"
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a journalist in Calcutta during the time of the Indigo Revolt. Write an article about the brutality of the planters and how it affected the peasants."
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "How can the events of the Indigo Revolt be connected to the Deccan Riots? "
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the system of moneylenders and land auction a fair system? What was the impact of the British rule on the peasants in India?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "If you were a peasant during the time of the Indigo Revolt, what alternative solution might you propose to the planters to avoid the cycle of debt?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "Assess the impact of Dina Bandhu Mitra's play \"Nil Darpan\" on the awareness of the indigo growers' situation. Do you think such forms of art can significantly influence social issues?"
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Indigo Revolt was justified? Why? Why not?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "How did the British planters force peasants to grow indigo and why did this lead to their indebtedness?"
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "What was the name of the play that drew attention to the plight of the indigo growers in India and Europe? "
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "Why were the peasants forced to grow indigo? "
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "How do you think the actions of the British East India Company and the subsequent exploitation of Indian peasants contributed to the current state of India's economy?"
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "Write a short story about a peasant who participated in the Indigo Revolt. "
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the cash advance system force the peasants into debt? What was the impact of the heavy taxation on agriculture?"
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "Why were the peasants forced to grow indigo rather than food crops?"
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "Imagine you are an Indian farmer today. You have recently learned about the plight of farmers in India under British rule. How do you think you would have responded to the same situation and why?"
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "What was the relationship between European merchants and Indian peasants in the 17th and 18th centuries?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "Why were peasants forced into a cycle of debt when growing indigo?"
+ },
+ {
+  "Context": 4,
+  "Model": "Palm2",
+  "Questions ": "How did the British government respond to the Indigo Revolt? "
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "What natural dye was highly valued by cloth makers around the world before synthetic dyes were created? "
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "Evaluate the significance of Dina Bandhu Mitra's play \"Nil Darpan\" in raising awareness about the plight of indigo growers."
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "How did the policies of British rule and the new law on moneylending impact the land ownership and livelihood of Indian peasants during the Deccan Riots?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a British administrator in the Deccan region during the 1870s. How would you address the concerns of peasants to prevent riots?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a journalist in Calcutta during the time of the Indigo Revolt. Write a brief article highlighting the struggles of the peasants and suggesting possible reforms to the system."
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "What do you think were the motivations of the British planters to use violence and oppression to force the Indian peasant farmers to grow indigo?"
+ },
+ {
+  "Context": 4,
+  "Model": "Llama2_70B",
+  "Questions ": "Compare and contrast the reasons behind the Indigo Revolt and the Deccan Riots. What were the similarities and differences between the two events?"
+ },
+ {
+  "Context": 4,
+  "Model": "GPT35",
+  "Questions ": "Design a pamphlet or infographic that educates people about the causes and consequences of the Deccan Riots in a visually engaging way."
+ },
+ {
+  "Context": 4,
+  "Model": "GPT4",
+  "Questions ": "How did the practices of the British planters in the indigo industry relate to the practices of moneylenders in the Deccan riots?"
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "How did the British East India Company take control of trade in the Indian subcontinent?"
+ },
+ {
+  "Context": 4,
+  "Model": "Falcon40B",
+  "Questions ": "Can you think of a similar example in history when a group of people were exploited for a resource they had, but others did not?"
+ },
+ {
+  "Context": 5,
+  "Model": "GPT35",
+  "Questions ": "Who were some of the key leaders who formulated an economic critique of colonialism during this period?"
+ },
+ {
+  "Context": 5,
+  "Model": "Palm2",
+  "Questions ": "How did the flourishing of print media help in circulating the ideas of nationalism? "
+ },
+ {
+  "Context": 5,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Indian National Congress was successful in achieving its goals? Explain. "
+ },
+ {
+  "Context": 5,
+  "Model": "GPT35",
+  "Questions ": "How did the Indian intelligentsia contribute to the rise of national political consciousness?"
+ },
+ {
+  "Context": 5,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the rise of nationalism in India. "
+ },
+ {
+  "Context": 5,
+  "Model": "Llama2_70B",
+  "Questions ": "Why were the demands of early Indian nationalists described as \"moderate\"?  "
+ },
+ {
+  "Context": 5,
+  "Model": "Palm2",
+  "Questions ": "How can the ideas of nationalism be used to solve the problems of discrimination and inequality in India today? "
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "Why did the early moderate nationalists believe that colonialism was the main obstacle to India’s economic development?"
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "What were the key demands of early Indian nationalists for social reform? How did these differ from the demands of later militant nationalists?"
+ },
+ {
+  "Context": 5,
+  "Model": "Llama2_70B",
+  "Questions ": "Design a political cartoon that depicts the impact of colonialism on Indian society and economy."
+ },
+ {
+  "Context": 5,
+  "Model": "GPT35",
+  "Questions ": "Write a speech that an early Indian nationalist leader could have delivered to inspire unity and cooperation among Indians."
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "How did the early Indian nationalists approach to addressing economic inequality in India differ from later militant nationalists?"
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "To what extent were early moderate Indian nationalists successful in promoting Indian interests within the British Raj?"
+ },
+ {
+  "Context": 5,
+  "Model": "Palm2",
+  "Questions ": "How did the economic critique of colonialism contribute to the rise of nationalism in India? "
+ },
+ {
+  "Context": 5,
+  "Model": "GPT4",
+  "Questions ": "Do you agree with the \"extremists\" that the methods of moderate leaders were not effective? Why or why not?"
+ },
+ {
+  "Context": 5,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the policy of appeasement and petitions an effective strategy for early Indian nationalists? Why or why not? "
+ },
+ {
+  "Context": 5,
+  "Model": "GPT4",
+  "Questions ": "If you were part of the early Indian nationalists, how would you have used the print media to promote the idea of nationalism?"
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "What did the early Indian nationalists demand during the first session of the Indian National Congress in 1885?"
+ },
+ {
+  "Context": 5,
+  "Model": "GPT4",
+  "Questions ": "How did the economic critique of colonialism by figures like Dadabhai Naoroji relate to the objectives of the Indian National Congress?"
+ },
+ {
+  "Context": 5,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are living in that era and are tasked to draft a message to the British government. Write a short note highlighting the main demands of the Indian National Congress and the reasons behind them."
+ },
+ {
+  "Context": 5,
+  "Model": "Falcon40B",
+  "Questions ": "If you were a student of Indian National Congress in 1885, what would be your position on the demands for social reforms in India?"
+ },
+ {
+  "Context": 5,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the impact of the creation of legislative councils at provincial and central levels on the political landscape of India?  "
+ },
+ {
+  "Context": 5,
+  "Model": "GPT35",
+  "Questions ": "How effective were the methods of moderate leaders in achieving their objectives within the constitutional framework?"
+ },
+ {
+  "Context": 5,
+  "Model": "GPT35",
+  "Questions ": "If you were to write a petition to the British government, which demands from the early Congress sessions would you include and why?"
+ },
+ {
+  "Context": 5,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the methods of militant leaders differ from those of moderate leaders?  "
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "What were the key objectives of the Swadeshi Movement?"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT4",
+  "Questions ": "Can you explain the main reason behind the Partition of Bengal?"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "How significant was the boycott of British goods as a method of protest against the partition of Bengal?"
+ },
+ {
+  "Context": 6,
+  "Model": "Falcon40B",
+  "Questions ": "How effective was the Swadeshi Movement in securing the annulment of the partition?"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a poet living during the time of the Partition of Bengal. Write a short poem or verse reflecting the emotions and sentiments of the Bengali people during this period."
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are writing a letter to a friend explaining why the day of the official partition of Bengal was declared a day of mourning."
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the partition of Bengal lead to a Hindu-Muslim divide? How did the growth of regional language newspapers play a role in building a sense of proud Bengali identity?"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "How did the British policy of partition intend to weaken the nationalist movement in Bengal?"
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "What can be done to make sure that the Indian government does not divide the people of India on religious lines? "
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the effect of the Partition of Bengal on the people of Bengal? How did it unite the Bengali people?"
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "Do you think the partition of Bengal was a necessary evil? Explain."
+ },
+ {
+  "Context": 6,
+  "Model": "GPT4",
+  "Questions ": "How did the Partition of Bengal lead to a change in the strategy of the moderate leaders in the Indian national movement?"
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "How did the partition of Bengal contribute to the rise of communalism in India? "
+ },
+ {
+  "Context": 6,
+  "Model": "GPT4",
+  "Questions ": "Do you think Curzon's assurance to the Muslims about enjoying unity in East Bengal was sincere or just a political move? Give reasons for your answer."
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "Write a short story about a Bengali person who was affected by the partition. "
+ },
+ {
+  "Context": 6,
+  "Model": "GPT4",
+  "Questions ": "If you were a journalist during that time, how would you use regional language newspapers to bring about unity among the Bengali people?"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "Design a poster encouraging people to boycott British goods and support the anti-partition movement, incorporating both text and imagery"
+ },
+ {
+  "Context": 6,
+  "Model": "GPT35",
+  "Questions ": "Analyze how the partition of Bengal inadvertently united Bengali people along linguistic lines instead of dividing them along religious lines."
+ },
+ {
+  "Context": 6,
+  "Model": "Falcon40B",
+  "Questions ": "What were the main methods of protest used by the anti-partition movement?"
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the Anti-Partition Movement start? What was the agenda of Swadeshi Movement? How did the militant nationalists extend the movement beyond Bengal?"
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a resident of Bengal during the time of the partition. Write a letter to a friend expressing your feelings about the partition. How did it affect you and your community? What do you think could have been done differently?"
+ },
+ {
+  "Context": 6,
+  "Model": "Falcon40B",
+  "Questions ": "What was the objective of the partition of Bengal in 1905?"
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the Partition of Bengal? When did it happen?"
+ },
+ {
+  "Context": 6,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the partition of Bengal a success or a failure? What were the long-term effects of the partition of Bengal? Did it fulfill its purpose of curtailing Bengali influence and weakening the nationalist movement?"
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "Why did the British government decide to partition Bengal? "
+ },
+ {
+  "Context": 6,
+  "Model": "Palm2",
+  "Questions ": "What was the name of the British Viceroy who partitioned Bengal?"
+ },
+ {
+  "Context": 6,
+  "Model": "Falcon40B",
+  "Questions ": "How did the growth of regional language newspapers build a sense of proud Bengali identity during the partition?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "Who were the leaders referred to as the \"Lal-Bal-Pal triumvirate\" during the Swadeshi period?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT4",
+  "Questions ": "How would you promote the concept of Swadeshi today, especially given the globalized world we live in?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT4",
+  "Questions ": "What were the main objectives of the Constructive Swadeshi movement?"
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the significance of the Swadeshi Steam Navigation company?"
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "What were the drawbacks and limitations of the Swadeshi Movement and how can they be overcome?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "Evaluate the impact of Swadeshi shops selling indigenous products on the Indian economy and the movement for self-sufficiency."
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the Swadeshi Movement take a turn in 1906?"
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "What can be done today to promote the use of swadeshi goods? "
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "What are the similarities and differences between the Boycott and Swadeshi Movement in Bengal?"
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "What were the four major trends during the Swadeshi Movement in Bengal?"
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "Who were the three prominent leaders of the Swadeshi movement? "
+ },
+ {
+  "Context": 7,
+  "Model": "GPT4",
+  "Questions ": "Considering the importance of self-sufficiency, do you think the boycott of foreign goods was an effective method in promoting Swadeshi industries? Provide reasons for your answer."
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "How can the students of today's generation contribute to the Swadeshi Movement?"
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "Create a poster\/pamphlet advocating for the Swadeshi Movement today."
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "What are the lasting legacies of the Swadeshi movement? "
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "What did constructive Swadeshi stress upon?"
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "When did the first phase of the Swadeshi Movement take place?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "How were boycott and swadeshi interlinked, and why were they considered part of the plan to make India self-sufficient?"
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "How did the Swadeshi movement help to promote Indian industries? "
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "What were the underlying causes of the Swadeshi Movement in Bengal? How did the Swadeshi Movement impact the social and political landscape of the time?"
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the Swadeshi movement and its goals. "
+ },
+ {
+  "Context": 7,
+  "Model": "Palm2",
+  "Questions ": "How did the Swadeshi movement differ from the moderate approach to Indian independence? "
+ },
+ {
+  "Context": 7,
+  "Model": "GPT4",
+  "Questions ": "How did the development of Swadeshi industries relate to the wider goals of the Swadeshi Movement?"
+ },
+ {
+  "Context": 7,
+  "Model": "Falcon40B",
+  "Questions ": "What are some practical ways the Swadeshi Movement can be implemented today?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "If you were a leader during the Swadeshi Movement, how would you promote the idea of self-help and alternative institutions of self-governance?"
+ },
+ {
+  "Context": 7,
+  "Model": "Llama2_70B",
+  "Questions ": "What were the differences in the meaning of Swaraj among the extremist leaders?"
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "Write a dialogue between Lala Lajpat Rai and Bipin Chandra Pal, discussing their perspectives on achieving Swaraj and their roles in the movement."
+ },
+ {
+  "Context": 7,
+  "Model": "GPT35",
+  "Questions ": "Analyze the role and significance of the \"Lal-Bal-Pal triumvirate\" in the Swadeshi Movement, and how did their contributions differ?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "What was the British government's response to the demand for Swarajraised during the Home Rule Movement?"
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the Home Rule Movement and its goals. "
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "How did the Montagu-Chelmsford reforms and the Rowlatt Act affect the Indian nationalist movement's progress towards self-government?"
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "How did the Home Rule Movement differ from the Swadeshi movement? "
+ },
+ {
+  "Context": 8,
+  "Model": "GPT4",
+  "Questions ": "How did the background of World War I influence the rise and demands of the Home Rule Movement?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT4",
+  "Questions ": "If you were living during the time of the Home Rule Movement, how would you respond to the British government's Montagu-Chelmsford reforms?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "How did World War I contribute to the revival and radicalization of the Indian national movement during the Home Rule Movement?"
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "What can be done to make sure that the Indian government is more responsive to the needs of the people? "
+ },
+ {
+  "Context": 8,
+  "Model": "Llama2_70B",
+  "Questions ": "Write a letter from a British leader to an Indian leader explaining why the British government enacted the Rowlatt Act."
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Home Rule Movement was successful in achieving its goals? Explain."
+ },
+ {
+  "Context": 8,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the Home Rule Movement successful? Why or why not?"
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "How did Indian nationalists protest against the Rowlatt Act?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "Assess the effectiveness of the Home Rule Movement in achieving its objectives within the British Empire."
+ },
+ {
+  "Context": 8,
+  "Model": "GPT4",
+  "Questions ": "Considering the outcomes of the Home Rule Movement and the British responses, do you think the non-violent constitutional methods were effective? Why or why not?"
+ },
+ {
+  "Context": 8,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the background of the Home Rule League? What was the reason for the deep disappointment of the Indian nationalists?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT4",
+  "Questions ": "What was the primary objective of the Home Rule Movement in relation to the British Empire?"
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "How did the British government respond to the demands of the Indian nationalists for self-government?"
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "What was the main goal of the Home Rule Movement?"
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "What were the objectives of the Home Rule Movement? "
+ },
+ {
+  "Context": 8,
+  "Model": "Palm2",
+  "Questions ": "What was the significance of the Lucknow Pact? "
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "If you were a leader during the Home Rule Movement, how would you use non-violent constitutional methods to pressurize the British government and achieve self-government within the British Empire?"
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "If you were a leader of the Home Rule Movement, how would you address the grievances of moderate and militant nationalists in a way that would unite them? "
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "Do you think the concept of separate electorate for Muslims was beneficial in the long run for India? Why? Why not?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT4",
+  "Questions ": "Who were the two main leaders of the Home Rule Movement?"
+ },
+ {
+  "Context": 8,
+  "Model": "GPT35",
+  "Questions ": "Design a poster illustrating the key events and objectives of the Home Rule Movement, using images and captions to convey its significance."
+ },
+ {
+  "Context": 8,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the Indian national movement get revived and radicalised?"
+ },
+ {
+  "Context": 8,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the year that the Home Rule Movement started?"
+ },
+ {
+  "Context": 8,
+  "Model": "Falcon40B",
+  "Questions ": "Which year did the Montagu-Chelmsford reforms come into force?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT35",
+  "Questions ": "What strategy did Mahatma Gandhi introduce in Indian politics, and where did he perfect it before bringing it to India?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT35",
+  "Questions ": "Apply the principles of satyagraha to a modern scenario where a marginalized group is facing discrimination. How could these principles be utilized for peaceful protest?"
+ },
+ {
+  "Context": 9,
+  "Model": "Llama2_70B",
+  "Questions ": "What was Gandhi's father's occupation?  \nWhat was the purpose of Gandhi's travel to South Africa?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT4",
+  "Questions ": "What is \"satyagraha\" and where did Gandhi first use it as a strategy?"
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "What is the meaning of satyagraha? "
+ },
+ {
+  "Context": 9,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the meeting of the Indians in the Transvaal help Gandhi in his fight against the poll tax?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT35",
+  "Questions ": "Reflect on the reasons behind Gandhi's critical view of Western civilization and industrialization, despite being influenced by Western thinkers."
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "How can satyagraha be used to solve the problems of discrimination and inequality in India today? "
+ },
+ {
+  "Context": 9,
+  "Model": "GPT4",
+  "Questions ": "Imagine you were a journalist during Gandhi's time in South Africa. Write a brief news report on one of the satyagraha marches he led, highlighting its significance and impact."
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "Discuss the significance of Gandhi's Phoenix Farm and Tolstoy Farm and why he chose to establish them. "
+ },
+ {
+  "Context": 9,
+  "Model": "Llama2_70B",
+  "Questions ": "What inspired Gandhi to fight for the civil rights of the Indians in South Africa?"
+ },
+ {
+  "Context": 9,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the training grounds help the satyagrahis in their struggle?"
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "What were the laws in the Transvaal that Gandhi found unjust and why did he fight against them? "
+ },
+ {
+  "Context": 9,
+  "Model": "Llama2_70B",
+  "Questions ": "What strategy did Gandhi develop to fight against the unjust laws in South Africa?"
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "Imagine you are an Indian freedom fighter during the 1920s. What strategies would you have used to gain independence from Britain? Would you have used satyagraha as Gandhi did or would you have chosen a different approach? Why do you think so?"
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "How did Gandhi's experiences in South Africa influence his approach to the Indian independence movement? "
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains Gandhi's methods of nonviolent resistance and their effectiveness. "
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "Do you think Gandhi's methods were effective in achieving Indian independence? Explain."
+ },
+ {
+  "Context": 9,
+  "Model": "GPT35",
+  "Questions ": "Examine how the establishment of the Phoenix Settlement and the Tolstoy Farm served as training grounds for the practice of satyagraha."
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the impact of British colonial rule on India's social, political and economic structure and how it led to the Indian freedom movement. "
+ },
+ {
+  "Context": 9,
+  "Model": "GPT4",
+  "Questions ": "How did the writings of Tolstoy, Ruskin, and Thoreau influence Gandhi's thoughts and actions in South Africa?"
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "Why did Gandhi decide to travel to South Africa and how did this experience change his ideas?"
+ },
+ {
+  "Context": 9,
+  "Model": "Falcon40B",
+  "Questions ": "Analyze the impact of Gandhi's satyagraha strategy on India's freedom struggle. Discuss how it was different from other forms of resistance and how effective it was in gaining independence."
+ },
+ {
+  "Context": 9,
+  "Model": "Palm2",
+  "Questions ": "Why did Gandhi develop satyagraha? "
+ },
+ {
+  "Context": 9,
+  "Model": "GPT4",
+  "Questions ": "Considering Gandhi's experiences in South Africa, how important do you think his time there was in shaping his strategies for India's independence movement?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT35",
+  "Questions ": "Why did Gandhi organize meetings of Indians in the Transvaal, and what was the purpose behind them?"
+ },
+ {
+  "Context": 9,
+  "Model": "GPT4",
+  "Questions ": "Where was Gandhi born and in which year?"
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "Who played a significant role in convincing Gandhi to visit Champaran, and what led to the swarming of thousands of people in support of Gandhi?"
+ },
+ {
+  "Context": 10,
+  "Model": "Palm2",
+  "Questions ": "What is the name of the exploitative system that was practiced in Champaran?  "
+ },
+ {
+  "Context": 10,
+  "Model": "Palm2",
+  "Questions ": "How can the methods used in the Champaran Satyagraha be used to solve the problems of farmers in India today? "
+ },
+ {
+  "Context": 10,
+  "Model": "Falcon40B",
+  "Questions ": "Create a speech or presentation on the impact of the Champaran satyagraha in India's freedom movement."
+ },
+ {
+  "Context": 10,
+  "Model": "Falcon40B",
+  "Questions ": "Explain the significance of the Champaran satyagraha for Gandhi's leadership?"
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "How did the European planters take advantage of the situation after the decline of indigo's market demand?"
+ },
+ {
+  "Context": 10,
+  "Model": "Palm2",
+  "Questions ": "Write a short story about a farmer who was involved in the Champaran Satyagraha. "
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a journalist during the Champaran Satyagraha. Compose a headline and a brief news article describing Gandhi's trial after refusing to leave Champaran."
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": "Do you think the success of the Champaran Satyagraha was primarily due to Gandhi's involvement or the collective efforts of the community? Justify your answer."
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "Assess the significance of the Champaran Satyagraha in Gandhi's journey as a leader of mass struggle. How did this event help shape his leadership role?"
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "Was it ethical for the European planters to enhance the rent and collect illegal dues as a price for the release of cultivators from the obligation of cultivating indigo? Was Gandhi's approach to mobilise the common people across the country effective? Why or why not?"
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the impact of the abolition of the tinkathia system on the peasants in Champaran?"
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "Design a poster or visual representation that depicts the challenges faced by the peasants under the tinkathia system in Champaran. Include key points about Gandhi's involvement and the outcome of the movement.."
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "Create a news article about the impact of Gandhi's intervention in Champaran on the national level, highlighting how it influenced other movements for freedom."
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": " How did the involvement of figures like Rajendra Prasad and Brajkishore Prasad impact the success of the Champaran Satyagraha?"
+ },
+ {
+  "Context": 10,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Champaran Satyagraha was a success? Explain."
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "Analyze the impact of German synthetic dyes on the indigo market in Champaran. How did this situation affect the European planters and the local peasants?"
+ },
+ {
+  "Context": 10,
+  "Model": "Falcon40B",
+  "Questions ": "Analyze the factors that led to the success of the Champaran satyagraha."
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": "What was the tinkathia system in Champaran?"
+ },
+ {
+  "Context": 10,
+  "Model": "Falcon40B",
+  "Questions ": "What lessons can be learned from the Champaran satyagraha for addressing oppression in society today?"
+ },
+ {
+  "Context": 10,
+  "Model": "Palm2",
+  "Questions ": "How did the Champaran Satyagraha differ from the earlier movements for Indian independence? "
+ },
+ {
+  "Context": 10,
+  "Model": "GPT35",
+  "Questions ": "If you were a member of the committee formed by the Lieutenant Governor, how would you go about recommending the abolition of the tinkathia system? "
+ },
+ {
+  "Context": 10,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the importance of the Champaran satyagraha in shaping Gandhi's philosophy of non-violent resistance?"
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": "How might the principles of satyagraha be used today to combat oppressive systems?"
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "How did Gandhi's intervention in Ahmedabad mill strike (1918) and the Kheda Satyagraha (1918) help him?"
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the tinkathia system? "
+ },
+ {
+  "Context": 10,
+  "Model": "GPT4",
+  "Questions ": "How did the European planters try to exploit the situation after synthetic dyes affected the indigo market?"
+ },
+ {
+  "Context": 10,
+  "Model": "Llama2_70B",
+  "Questions ": "How did Gandhi assist the peasants in Champaran? "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "When did Gandhi call for a nation-wide satyagraha, and what were the key principles of this protest?"
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "Describe the events that took place at Jallianwala Bagh on 13 April 1919.\nWhat was the impact of the Jallianwala Bagh Massacre on the people of India, and how did it enrage them?"
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "Compare and contrast the Government of India Act 1919 and the Rowlatt Act, and evaluate their impact on Indian society. "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "Write a short diary entry from the perspective of a citizen of Amritsar who witnessed the events leading up to and following the Jallianwala Bagh massacre."
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "Who were the two prominent local leaders who were arrested in Amritsar on 9 April 1919? "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a participant in the non-violent satyagraha during the Rowlatt Movement. How would you express your protest against the Rowlatt Act without resorting to violence?"
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Jallianwala Bagh Massacre was justified? Explain."
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "How did Gandhi use the Khilafat Movement to unite Hindus and Muslims?"
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "Compare and contrast the reactions of Indians towards the Jallianwala Bagh massacre and the Khilafat Movement. "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "Why did Gandhi call the Rowlatt Act a 'Black Act' and what action did he take in protest against it?"
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "Why were Dr. Saifuddin Kitchlew and Dr. Satyapal arrested in Amritsar?"
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "If the Rowlatt Satyagraha was to be repeated in today's context, how might people in India protest against a law they perceive as unjust?"
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "What is the significance of the Khilafat Movement? "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "Assess the significance of Gandhi's support for the Khilafat Movement in terms of Hindu-Muslim unity. Was it a strategic move, a genuine gesture of solidarity, or both?"
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "How did the Khilafat Movement contribute to the growth of the Indian independence movement? "
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "How was the Government of India Act different from the previous acts? "
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "Create a comic strip that depicts the events leading up to the massacre and its aftermath."
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the success of the Jallianwala Bagh massacre in uniting Hindus and Muslims. "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "Evaluate the role of the Khilafat Movement in Gandhi's strategy to unite Hindus and Muslims against British rule. How did this movement contribute to the broader Indian freedom struggle?"
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "Compare and contrast the goals and methods of the Rowlatt Satyagraha and the Khilafat Movement. How did Gandhi's involvement connect these two movements?"
+ },
+ {
+  "Context": 11,
+  "Model": "Falcon40B",
+  "Questions ": "Why did the Government of India Act 1919 fail to transfer real power to Indians? "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT35",
+  "Questions ": "Write a fictional dialogue between Gandhi and Maulana Mohamed Ali discussing their perspectives on the connection between the Khilafat Movement and the Indian freedom struggle. Use their viewpoints to illustrate the unity they aimed for."
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "What did Gandhi call the Rowlatt Act?"
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "Write a speech that Gandhi might have given to encourage Indians to participate in the non-cooperation program. "
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the Rowlatt Act, and why did Gandhi call it a 'Black Act'? "
+ },
+ {
+  "Context": 11,
+  "Model": "GPT4",
+  "Questions ": "How did the Jallianwala Bagh massacre impact the perception of British rule in India, as shown by actions of prominent figures like Rabindranath Tagore and Gandhi?"
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "How can the methods of the Rowlatt Satyagraha be used to solve the problems of discrimination and inequality in India today? "
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "How relevant are Gandhi's philosophies of non-violence and non cooperation in today's world, and how can they be applied to contemporary social and political issues?"
+ },
+ {
+  "Context": 11,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the significance of the Rowlatt Satyagraha or the Jallianwala Bagh Massacre. "
+ },
+ {
+  "Context": 11,
+  "Model": "Llama2_70B",
+  "Questions ": "Explain how the Khilafat Movement was an opportunity for Gandhi to unite Hindus and Muslims. "
+ },
+ {
+  "Context": 12,
+  "Model": "Falcon40B",
+  "Questions ": "How did the non-cooperation movement contribute to the national movement?"
+ },
+ {
+  "Context": 12,
+  "Model": "Palm2",
+  "Questions ": "How did the Chauri Chaura incident lead to the withdrawal of the non-cooperation movement? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "Compose a letter from the perspective of a student in 1922 explaining to their British friend why they've decided to boycott government schools and embrace the principles of Swadeshi."
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "Based on the outcomes and the intensity of the Non-Cooperation Movement, was Gandhi's decision to withdraw the movement after the Chauri Chaura incident justified? Explain your reasoning."
+ },
+ {
+  "Context": 12,
+  "Model": "Falcon40B",
+  "Questions ": "How might the non-cooperation movement have contributed to the larger goal of Indian independence? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "What was the primary aim of the non-cooperation movement's programs, like the boycott of government schools and non-participation in government functions?"
+ },
+ {
+  "Context": 12,
+  "Model": "Llama2_70B",
+  "Questions ": "If you were a student during the non-cooperation movement, would you participate in the boycott of government schools? Why or why not? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT35",
+  "Questions ": "Investigate the factors that led to the violent turn of events during the Chauri Chaura incident. How did this incident impact Gandhi's strategic approach to the movement?"
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "How did the acts of non-cooperation, like the boycott of foreign goods and the doctrine of Swadeshi, impact the British economy and governance in India?"
+ },
+ {
+  "Context": 12,
+  "Model": "Falcon40B",
+  "Questions ": "How did Gandhi's participation in the non-cooperation movement impact his reputation as a national leader?"
+ },
+ {
+  "Context": 12,
+  "Model": "GPT35",
+  "Questions ": "Write a short diary entry from the perspective of a participant in the Chauri Chaura incident, reflecting their emotions and thoughts leading up to, during, and after the violent events."
+ },
+ {
+  "Context": 12,
+  "Model": "Palm2",
+  "Questions ": "What are the lasting legacies of the non-cooperation movement? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT35",
+  "Questions ": "If you were a lawyer during the non-cooperation movement, explain how you would follow the suspension of practice and the settlement of disputes through private arbitration."
+ },
+ {
+  "Context": 12,
+  "Model": "Falcon40B",
+  "Questions ": "Can you identify any examples of how the non-cooperation movement impacted people's daily lives in India at that time? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT35",
+  "Questions ": "Assess the consequences of Gandhi's decision to withdraw the non-cooperation movement after the Chauri Chaura incident. How did this decision impact his relationship with the masses and the British authorities?"
+ },
+ {
+  "Context": 12,
+  "Model": "GPT35",
+  "Questions ": "Why did the Indian National Congress approve the non-cooperation movement, and how was it significant for the Indian freedom struggle?"
+ },
+ {
+  "Context": 12,
+  "Model": "Palm2",
+  "Questions ": "How did the Chauri Chaura incident change the course of the Indian independence movement? "
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "If the Non-Cooperation Movement happened today, how might people in India show their resistance to the government in a non-violent manner?"
+ },
+ {
+  "Context": 12,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the outcome of the Chauri Chaura incident?"
+ },
+ {
+  "Context": 12,
+  "Model": "Llama2_70B",
+  "Questions ": "How effective was Gandhi's strategy of non-violent resistance in achieving India's independence? "
+ },
+ {
+  "Context": 12,
+  "Model": "Falcon40B",
+  "Questions ": "Explain the main aim of the non-cooperation movement. "
+ },
+ {
+  "Context": 12,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a freedom fighter during the non-cooperation movement. Write a diary entry describing your experiences and thoughts. "
+ },
+ {
+  "Context": 12,
+  "Model": "Palm2",
+  "Questions ": " How can we continue to fight for justice and equality in our own societies?"
+ },
+ {
+  "Context": 12,
+  "Model": "GPT4",
+  "Questions ": "In which year did the Indian National Congress approve the non-cooperation movement?"
+ },
+ {
+  "Context": 12,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the non-cooperation movement contribute to India's struggle for independence? "
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "What were the two main groups that emerged within the Congress, and what were their differing viewpoints?"
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "How effective was the Swaraj Party in promoting nationalist ideas through their participation in the legislature? "
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "Who formed the Swaraj Party?"
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "What was the Swaraj Party and its main objectives?"
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "What were the differences between the pro-changers and no-changers in the Congress party, as mentioned in the text? "
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a member of the Swaraj Party in the 1920s. Write a letter to a friend describing your experiences and the challenges you face in promoting nationalist ideas through participation in the legislature. "
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "How did the concept of Swaraj evolve, and what were its key features?"
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "Analyze the reasons behind the division between pro-changers and no-changers within the Congress. How did their different perspectives shape the strategies they advocated for?"
+ },
+ {
+  "Context": 13,
+  "Model": "Palm2",
+  "Questions ": "Do you think the abolition of untouchability is still a relevant issue in India today? Explain."
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the significance of the All India Spinner's Association, as mentioned in the text? How did the events mentioned in the text contribute to India's struggle for independence?"
+ },
+ {
+  "Context": 13,
+  "Model": "Palm2",
+  "Questions ": "What are the two types of subjects under the Dyarchy system?"
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "Write a short speech that a Congress member might deliver to encourage fellow members to embrace Gandhi's constructive programme. Include arguments about the importance of Khadi, unity, and social reform in achieving Swaraj."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "How did the Dyarchy system impact the decisions of the Swarajists, especially in Bengal regarding the Transferred subjects?"
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "Who formed the Swaraj Party on 1 January 1923? What was the main objective of the Swaraj Party?"
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "Analyze the impact of the Government of India Act 1919 and the Swaraj Party's response to it on the Indian political landscape, including the relationship between the Indian government and British colonial authorities, and the development of modern democratic institutions."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a Congress member during Gandhi's constructive programme phase. Describe the steps you would take to promote Khadi, Hindu-Muslim unity, and the abolition of untouchability in your district."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a member of the All India Spinner’s Association. Draft a letter to a friend explaining the importance of Khadi and why it was being promoted by Gandhi."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "What was the main difference between the \"pro-changers\" and the \"no-changers\" in the Congress?"
+ },
+ {
+  "Context": 13,
+  "Model": "Palm2",
+  "Questions ": "How can the promotion of Khadi help to create jobs and boost the Indian economy? "
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the strengths and weaknesses of the Swaraj Party and the Khaddar movement, and how they contributed to the success of the Independence movement."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "If you were a member of the Congress during that time, which group would you have aligned with: the pro-changers or the no-changers? Why?"
+ },
+ {
+  "Context": 13,
+  "Model": "GPT4",
+  "Questions ": "Based on Gandhi's Constructive Programme, discuss whether focusing on promoting Khadi was a strategic way to instill discipline and commitment for a non-violent struggle among Indians."
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "Evaluate the effectiveness of the Dyarchy system in promoting self-governance in India. What were the benefits and limitations of this system in the context of Indian political and social conditions?"
+ },
+ {
+  "Context": 13,
+  "Model": "Palm2",
+  "Questions ": "How did the Dyarchy system affect the power of the Indian government?"
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "Discuss the significance of the Swaraj Party's role in shaping the modern identity of India and its people, including its contributions to the development of democracy and civil society."
+ },
+ {
+  "Context": 13,
+  "Model": "Palm2",
+  "Questions ": "Why did Gandhi focus on promoting Khadi, Hindu-Muslim unity and the abolition of untouchability after the Chauri Chaura incident? "
+ },
+ {
+  "Context": 13,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the differences between the pro-changers and no-changers in the Congress party reflect the broader debates around non-cooperation and civil disobedience? "
+ },
+ {
+  "Context": 13,
+  "Model": "GPT35",
+  "Questions ": "How did the Swaraj Party's approach differ from that of the no-changers led by Gandhi?"
+ },
+ {
+  "Context": 13,
+  "Model": "Falcon40B",
+  "Questions ": "Create a poster promoting the message of Mahatma Gandhi on Khaddar movement, incorporating historical images and quotes from the text, and reflecting its relevance for contemporary audiences."
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "If you were an Indian sepoy during the 19th century, how would you have responded to the new dress code and the use of cartridges greased with animal fat? What actions could you have taken to express your concerns?"
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "What was the main objective of the Nehru Report?"
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "Who was the leader of the Muslim League at the time of the Simon Commission?"
+ },
+ {
+  "Context": 14,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Nehru Report was a good compromise between the different political parties in India? Explain."
+ },
+ {
+  "Context": 14,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are an Indian journalist during this time. Write a short newspaper article reporting on the reactions of the public to Jinnah's Fourteen Points and his changing stance on Hindu-Muslim Unity."
+ },
+ {
+  "Context": 14,
+  "Model": "Palm2",
+  "Questions ": "Who were the two main political parties that boycotted the Simon Commission?  "
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "Create a slogan for the people protesting the British Simon Commission. "
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "If you were a member of the All-Party Conference, how would you have voted on Jinnah's proposal for one-third reservation of seats for Muslims in the Central Legislature? Why?"
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the events described in the text contribute to the growing divide between Hindus and Muslims in India?"
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "Why were the protesters angry with the Simon Commission?"
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "How did Jinnah and Tej Bahadur Sapru's proposal differ in the All Party Conference?"
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "Write a newspaper editorial criticizing Jinnah's Fourteen Points and their impact on Hindu-Muslim relations in India"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "How did the Nehru Report aim to provide an alternative to the Simon Commission's proposals?"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT4",
+  "Questions ": "Why were the Indian people upset about the Simon Commission?"
+ },
+ {
+  "Context": 14,
+  "Model": "Palm2",
+  "Questions ": "How did the boycott of the Simon Commission contribute to the growing divide between the Hindus and the Muslims in India? "
+ },
+ {
+  "Context": 14,
+  "Model": "Palm2",
+  "Questions ": "Why did Jinnah propose an amendment to the reservation of seats in the Central Legislature? "
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "Analyze the different political parties' approach towards the British proposal of Indian Statutory Commission. "
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the difference between the Nehru Report and Jinnah's Fourteen Points?"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "In light of Jinnah's initial advocacy for Hindu-Muslim unity and subsequent support for a separate nation, evaluate the factors that might have influenced his decision. How did this impact the future of India's communal dynamics?"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "Compare and contrast the Simon Commission's approach to its composition with the recommendations made in the Nehru Report. How did these differing approaches influence public sentiment?"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "Apply the concept of \"universal adult franchise\" mentioned in the Nehru Report to suggest how it could have positively impacted the representation of different communities in India."
+ },
+ {
+  "Context": 14,
+  "Model": "GPT4",
+  "Questions ": "Considering the recommendations in the Nehru Report, discuss whether these were adequate to address the concerns and aspirations of the Indian people at that time."
+ },
+ {
+  "Context": 14,
+  "Model": "GPT35",
+  "Questions ": "Create a dialogue between two fictional characters—one supporting Jinnah's initial call for unity and the other advocating for a separate Muslim nation. Depict their conversation during a crucial turning point in India's history."
+ },
+ {
+  "Context": 14,
+  "Model": "GPT4",
+  "Questions ": "How did the boycott of the Simon Commission lead to the creation of the Nehru Report?"
+ },
+ {
+  "Context": 14,
+  "Model": "GPT4",
+  "Questions ": "Who headed the Simon Commission?"
+ },
+ {
+  "Context": 14,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the boycott of the Simon Commission an effective way to protest the lack of Indian representation on the commission? Why or why not?"
+ },
+ {
+  "Context": 14,
+  "Model": "Palm2",
+  "Questions ": "Write a short story about a person who was involved in the boycott of the Simon Commission. "
+ },
+ {
+  "Context": 14,
+  "Model": "Falcon40B",
+  "Questions ": "Evaluate the effectiveness of the Simon Commission in uniting the people of India. "
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "\nWhen and where was Poorna Swaraj declared as the goal by the Indian National Congress?\n"
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "If you were a participant in the Salt Satyagraha Movement, how would you have convinced others to join the movement?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "Create a timeline that outlines the major events and milestones of the Civil Disobedience Movement, highlighting the roles played by different leaders and regions across India."
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "Who was the President of the Indian National Congress in the session held in Lahore in December 1929?"
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "Why was Khan Abdul Ghaffar Khan jailed during the Independence Movement in the year 1930? "
+ },
+ {
+  "Context": 15,
+  "Model": "Palm2",
+  "Questions ": "How did the Civil Disobedience Movement contribute to the eventual independence of India?"
+ },
+ {
+  "Context": 15,
+  "Model": "Palm2",
+  "Questions ": "Why was the inclusion of abolition of salt tax a brilliant tactical decision? "
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "What was the role of women, peasants, tribals, and students in the Independence Movement of India in the year 1930? "
+ },
+ {
+  "Context": 15,
+  "Model": "Palm2",
+  "Questions ": "What is the name of the place where Gandhi broke the salt law? "
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "Create a dialogue between Gandhi and a British officer who is trying to convince him to stop the movement."
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "Analyze the role of various groups, such as women, peasants, and students, in the nation-wide struggle. How did their participation shape the character of the movement?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "How did the Congress session in Lahore in 1929 lead to the declaration of Poorna Swaraj as the goal?"
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "What was the main reason for the Round Table Conference held in 1931 in London after the Rowlatt Act of 1919? "
+ },
+ {
+  "Context": 15,
+  "Model": "GPT4",
+  "Questions ": "If you had been alive during this time, which form of protest (e.g., boycott of foreign cloth, picketing of liquor shops) would you have most likely participated in and why?"
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the Salt Satyagraha Movement a success or a failure? Why?\nHow effective was Gandhi's leadership in the movement?"
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "What was the significance of the non-cooperation movement initiated by Mahatma Gandhi in India in terms of the fight for independence in 1930? "
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "If you were tasked with drafting a charter of demands for the Civil Disobedience Movement, what additional demands would you include, and how would they contribute to the movement's objectives?"
+ },
+ {
+  "Context": 15,
+  "Model": "Palm2",
+  "Questions ": "Design a poster or infographic that explains the importance of the Civil Disobedience Movement. "
+ },
+ {
+  "Context": 15,
+  "Model": "GPT4",
+  "Questions ": "How did Gandhi's act of breaking the salt law in Dandi influence similar protests in other regions of India?"
+ },
+ {
+  "Context": 15,
+  "Model": "Palm2",
+  "Questions ": "Do you think the events of the Civil Disobedience Movement can be repeated today? Explain."
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "How did Lord Irwin respond to Gandhi's demand to abolish salt tax in India in the year 1930? "
+ },
+ {
+  "Context": 15,
+  "Model": "Falcon40B",
+  "Questions ": "How can the ideals and values of Mahatma Gandhi and Khan Abdul Ghaffar Khan be applied to the current social and political landscape of India?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT4",
+  "Questions ": "Write a brief diary entry from the perspective of a young Indian witnessing Gandhi's march to Dandi and being inspired to join the Civil Disobedience Movement."
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the significance of the inclusion of women, peasants, tribals, students, and children in the movement?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT4",
+  "Questions ": "Why was the abolition of salt tax significant for the Indian people?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT4",
+  "Questions ": "On which date did Gandhi start his march from Sabarmati Ashram to Dandi?"
+ },
+ {
+  "Context": 15,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the reason behind Gandhi's decision to include the abolition of salt tax in the charter of demands?"
+ },
+ {
+  "Context": 15,
+  "Model": "GPT35",
+  "Questions ": "In your opinion, how did the Civil Disobedience Movement contribute to shaping India's path towards independence? Consider the various forms of protest and the diverse participation of different sections of society."
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "What was the slogan given by Subhas Chandra Bose when he formed the Provisional Government of Free India in Singapore?"
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the reason behind Gandhi's call for limited satyagraha in 1940?"
+ },
+ {
+  "Context": 16,
+  "Model": "Palm2",
+  "Questions ": "How did the Quit India Movement differ from the other independence movements in India? "
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "How significant was the role of the Indian National Army's trials in inspiring nationalist sentiment among Indians?"
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "How did the events of 1940-1943 expose the weaknesses of British colonial rule in India?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "How did the actions of Subhas Chandra Bose contrast with the non-violent approach of Gandhi during this period?"
+ },
+ {
+  "Context": 16,
+  "Model": "Palm2",
+  "Questions ": "What are the three demands of the Cripps Mission?  "
+ },
+ {
+  "Context": 16,
+  "Model": "Palm2",
+  "Questions ": "Do you think the INA trials were fair? Explain."
+ },
+ {
+  "Context": 16,
+  "Model": "Falcon40B",
+  "Questions ": "How did the formation of the Indian National Army influence the Indian freedom struggle?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "Who was the first to offer satyagraha in October 1940?"
+ },
+ {
+  "Context": 16,
+  "Model": "Falcon40B",
+  "Questions ": "Discuss the impact of the Indian National Army on the Indian freedom struggle.\""
+ },
+ {
+  "Context": 16,
+  "Model": "Falcon40B",
+  "Questions ": "Imagine you are a soldier in the Indian National Army. Write a speech that you would make to your fellow men about the importance of the freedom struggle. "
+ },
+ {
+  "Context": 16,
+  "Model": "Falcon40B",
+  "Questions ": "What role did the Indian National Army play in India's freedom struggle?"
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "Why was Indian National Army formed? "
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "Why did Gandhi refer to the Cripps Mission's proposals as a \"post-dated cheque on a crashing bank\"?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "Considering the outcome of the Cripps Mission and the subsequent reactions, do you believe the British genuinely wanted to negotiate a compromise with India? Justify your answer based on the text."
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "How did Subhas Chandra Bose's strategy shift from seeking Soviet Union support to forming the Indian National Army?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "How did Subhas Chandra Bose attempt to garner support for India's freedom struggle during his escape?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "Imagine you are a historian researching the Indian National Army. How would you explain its organization and the role it played in India's struggle for freedom?"
+ },
+ {
+  "Context": 16,
+  "Model": "Palm2",
+  "Questions ": "Write a short story about a person who was involved in the Quit India Movement. "
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a satyagrahi participating in Gandhi's limited satyagraha in 1940. Write a diary entry describing your experiences and thoughts."
+ },
+ {
+  "Context": 16,
+  "Model": "Falcon40B",
+  "Questions ": "How did the formation of the Indian National Army impact public perception of the Indian freedom struggle? "
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "How did Gandhi's call for \"Do or Die\" reflect the mood of the Indian people during World War II?"
+ },
+ {
+  "Context": 16,
+  "Model": "GPT35",
+  "Questions ": "Write a short story imagining a conversation between Mahatma Gandhi and Subhas Chandra Bose discussing their differing viewpoints on achieving Indian independence."
+ },
+ {
+  "Context": 16,
+  "Model": "Llama2_70B",
+  "Questions ": "How did Subhas Chandra Bose's formation of the Provisional Government of Free India and the INA impact the Allied war effort?"
+ },
+ {
+  "Context": 16,
+  "Model": "Palm2",
+  "Questions ": "Why did the Congress and the Muslim League reject the Cripps Mission? "
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "Write a short letter from an ordinary Indian citizen to a friend, expressing their feelings and opinions after hearing about Subhas Chandra Bose's crash and the trials of the INA officers."
+ },
+ {
+  "Context": 16,
+  "Model": "GPT4",
+  "Questions ": "If you were present during the \"Do or Die\" call by Gandhi, what action would you take in response to his call and why?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "Who was the leader of the Labour party that came to power in Britain and expedited India's independence?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "If you were a citizen of Bengal during this time, how would you feel about the proposal to divide Bengal? Explain your reasons."
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "Do you agree with the decision to partition India into India and Pakistan to achieve freedom? Why or why not, based on the information provided in the text?"
+ },
+ {
+  "Context": 17,
+  "Model": "Llama2_70B",
+  "Questions ": "What is the name of the commission appointed to determine the borders in Punjab and Bengal?"
+ },
+ {
+  "Context": 17,
+  "Model": "Falcon40B",
+  "Questions ": "What was the role of the Labour Party in Indian independence?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "Who became the first Prime Minister of independent India?"
+ },
+ {
+  "Context": 17,
+  "Model": "Llama2_70B",
+  "Questions ": "Was the partition of India a necessary step towards its independence? Explain."
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "How did the financial crisis and intensified freedom struggles around the world impact Britain's ability to maintain colonies, including India?"
+ },
+ {
+  "Context": 17,
+  "Model": "Falcon40B",
+  "Questions ": "How did British colonial rule impact India's economy?"
+ },
+ {
+  "Context": 17,
+  "Model": "Palm2",
+  "Questions ": "How did the Mountbatten Plan contribute to the eventual partition of India?"
+ },
+ {
+  "Context": 17,
+  "Model": "Palm2",
+  "Questions ": "Why did the Congress and the All India League approve the Mountbatten Plan? "
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "How did external factors, such as the Second World War and the policies of America and the Soviet Union, influence the British decision to grant India its independence?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "Analyze the role of the Second World War in influencing the British decision to free India and other colonies. How did global events impact Britain's ability to maintain its imperial rule?"
+ },
+ {
+  "Context": 17,
+  "Model": "Falcon40B",
+  "Questions ": "Who is Lord Mountbatten?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "Imagine you are a journalist in 1947. Write a headline and a short news report on the day India achieved its independence, highlighting the key events leading up to this monumental day."
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "Design a map that illustrates the proposed partition according to the Mountbatten Plan, highlighting the regions that became India and Pakistan."
+ },
+ {
+  "Context": 17,
+  "Model": "Llama2_70B",
+  "Questions ": "Imagine you are a resident of a Muslim-majority area during the time of India's partition. Write a diary entry describing your thoughts and feelings about the creation of Pakistan."
+ },
+ {
+  "Context": 17,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the impact of the Second World War on India's freedom struggle?"
+ },
+ {
+  "Context": 17,
+  "Model": "Palm2",
+  "Questions ": "What are the four proposals of the Mountbatten Plan? "
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "If you were a member of the British Parliament during the passing of the Indian Independence Act, how would you explain the reasons for dividing India and Pakistan?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT4",
+  "Questions ": "Explain the main proposals of the \"Mountbatten Plan\"."
+ },
+ {
+  "Context": 17,
+  "Model": "Falcon40B",
+  "Questions ": "What was the impact of the Second World War on imperialism?"
+ },
+ {
+  "Context": 17,
+  "Model": "GPT35",
+  "Questions ": "In your opinion, how did the different streams of ideas and ideologies, including Gandhian principles and alternative methods of struggle, contribute to the success of the Indian National Movement and the attainment of independence?"
+ },
+ {
+  "Context": 17,
+  "Model": "Llama2_70B",
+  "Questions ": "What was the significance of the approval of the Mountbatten Plan by the Congress and the All India League?"
+ },
+ {
+  "Context": 17,
+  "Model": "Palm2",
+  "Questions ": "Do you think the Mountbatten Plan was a good solution to the problem of the partition of India? Explain."
+ }
+]
