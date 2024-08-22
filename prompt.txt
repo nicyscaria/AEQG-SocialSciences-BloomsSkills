@@ -5,6 +5,6 @@ Context: {context}
 Instructions
 
 1. Create a question for each cognitive level in Bloom's taxonomy: remember, understand, apply, analyze, evaluate, and create from the context.
-2. Ensure the questions use B2 level words or below of the Common European Framework of Reference for the English Language.
+2. Ensure the questions use B2 level words or below the Common European Framework of Reference for the English Language.
 3. Make sure the questions relate to the students in India.
 4. Make sure to connect events within the context while creating questions.
